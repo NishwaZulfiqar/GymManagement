@@ -1,0 +1,40 @@
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\bin\Debug\Gym_Mgt_System.exe.config
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\bin\Debug\Gym_Mgt_System.exe
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\bin\Debug\Gym_Mgt_System.pdb
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.csprojAssemblyReference.cache
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.Form1.resources
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.DeleteMember.resources
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.FeesPayment.resources
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.Login.resources
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.NewMember.resources
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.NewStaff.resources
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.Properties.Resources.resources
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.SearchMember.resources
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.UpdateMember.resources
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.ViewMembers.resources
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.ViewPayments.resources
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.ViewTrainers.resources
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.csproj.GenerateResource.cache
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.exe
+C:\Users\Muhammad Ali\Downloads\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.pdb
+E:\GymManagementSystem-master\Gym_Mgt_System\bin\Debug\Gym_Mgt_System.exe.config
+E:\GymManagementSystem-master\Gym_Mgt_System\bin\Debug\Gym_Mgt_System.exe
+E:\GymManagementSystem-master\Gym_Mgt_System\bin\Debug\Gym_Mgt_System.pdb
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.csprojAssemblyReference.cache
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.Form1.resources
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.DeleteMember.resources
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.FeesPayment.resources
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.Login.resources
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.NewMember.resources
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.NewStaff.resources
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.Properties.Resources.resources
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.SearchMember.resources
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.UpdateMember.resources
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.ViewMembers.resources
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.ViewPayments.resources
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.ViewTrainers.resources
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.csproj.GenerateResource.cache
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.csproj.CoreCompileInputs.cache
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.exe
+E:\GymManagementSystem-master\Gym_Mgt_System\obj\Debug\Gym_Mgt_System.pdb
